@@ -27,3 +27,29 @@ A complete **menu-driven Singly Linked List application** written in **C++** wit
 g++ src/main.cpp -o linkedlist
 ./linkedlist
 
+
+🔹 Windows (MinGW)
+g++ src/main.cpp -o linkedlist.exe
+linkedlist.exe
+
+📂 Project Structure
+linked-list-cpp/
+├── src/main.cpp
+├── README.md
+└── screenshots/
+
+🧠 Concepts Covered
+
+Linked List (Singly)
+
+Pointers & Dynamic Memory
+
+Menu-driven programming
+
+Input validation
+
+Modular functions
+
+✨ Sample Output
+
+(Add screenshots in screenshots/ folder)
