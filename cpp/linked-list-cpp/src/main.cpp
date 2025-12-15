@@ -11,6 +11,8 @@ using namespace std;
 #define MAGENTA "\033[1;35m"
 #define YELLO "\033[1;33m"
 #define RESET   "\033[0m"
+// structure declaration 
+struct Node;
 
 // function declaration
 void createList(Node *&head);
