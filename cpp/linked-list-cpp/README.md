@@ -50,6 +50,3 @@ Input validation
 
 Modular functions
 
-✨ Sample Output
-
-(Add screenshots in screenshots/ folder)
