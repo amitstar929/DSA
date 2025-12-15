@@ -20,14 +20,6 @@ A complete **menu-driven Singly Linked List application** written in **C++** wit
 
 ---
 
-## 🚀 How to Run
-
-### 🔹 Linux / macOS
-```bash
-g++ src/main.cpp -o linkedlist
-./linkedlist
-
-
 🔹 Windows (MinGW)
 g++ src/main.cpp -o linkedlist.exe
 linkedlist.exe
@@ -50,3 +42,9 @@ Input validation
 
 Modular functions
 
+## ▶️ How to Run
+
+step1: copy code
+step2: open online c++ compiler (https://www.onlinegdb.com/online_c++_compiler)
+stpe3: run code and adjust screen size(zoom in or zoom out)
+step4: finished
